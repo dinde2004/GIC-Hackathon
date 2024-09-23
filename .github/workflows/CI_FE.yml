@@ -1,0 +1,31 @@
+name: Build Lint and Test (Frontend)
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  CICD_FE:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_PUBLIC_ENVIRONMENT: ${{ secrets.NEXT_PUBLIC_ENVIRONMENT }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: cd packages/frontend && npm install
+
+      - name: Run Frontend Build
+        run: cd packages/frontend && npm run build
+
+      - name: Run Frontend Tests
+        run: cd packages/frontend && npm run test
+
+      - name: Run Frontend Lint
+        run: cd packages/frontend && npm run lint

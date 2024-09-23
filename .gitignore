@@ -1,0 +1,21 @@
+node_modules
+**/dbdata
+**/.env.*
+**/.env
+# Keep pyc out of version control
+**/__pycache__
+.pytest_cache
+
+**/.DS_Store
+
+**/venv/
+
+/cypress/screenshots
+/cypress/screenshots/**
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+deploy.zip

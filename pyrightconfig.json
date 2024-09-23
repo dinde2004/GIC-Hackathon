@@ -1,0 +1,6 @@
+{
+  "typeCheckingMode": "standard",
+  "include": ["packages/backend"],
+  "exclude": ["**/node_modules", "**/__pycache__"],
+  "ignore": ["packages/scripts", "packages/frontend"]
+}

@@ -1,0 +1,34 @@
+name: Deploy backend
+
+on:
+  workflow_dispatch:
+    inputs:
+      application_name:
+        description: "Name of the Heroku app"
+        required: false
+        default: "codetoimpact-backend-app"
+      image_name:
+        description: "Name of the Docker image"
+        required: false
+        default: "codetoimpact-docker-image"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Heroku CLI
+        uses: akhileshns/heroku-deploy@v3.12.12
+        with:
+          heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
+          heroku_app_name: ${{ github.event.inputs.application_name }}
+          heroku_email: ${{ secrets.HEROKU_EMAIL }}
+
+      - name: Deploy to Heroku
+        run: |
+          heroku container:login
+          heroku container:push web --app ${{ github.event.inputs.application_name }} --arg IMAGE_NAME=${{ github.event.inputs.image_name }}
+          heroku container:release web --app ${{ github.event.inputs.application_name }}

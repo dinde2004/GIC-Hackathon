@@ -1,0 +1,11 @@
+**/venv/
+**/.env
+
+/data
+/logs
+
+**/.env.*
+!.env.example
+
+**/terraform.*
+**/.terraform*

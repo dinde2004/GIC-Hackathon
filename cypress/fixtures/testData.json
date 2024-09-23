@@ -1,0 +1,543 @@
+{
+  "vendors": [
+    {
+      "id": "66923fe899833123935b34b1",
+      "min_price": null,
+      "max_price": null,
+      "name": "1-Altitude Coast",
+      "rating": 4.5,
+      "rating_count": null,
+      "address": "Level 7 The Outpost Hotel, 10 Artillery Avenue, Sentosa Island, Singapore 099951",
+      "phone_number": "65 6513 7708",
+      "email": "enquiry@1-altitudecoast.sg",
+      "website": "www.1-altitudecoast.sg",
+      "facebook": "https://www.facebook.com/1altitude",
+      "google_id": null,
+      "google_maps_uri": null,
+      "instagram": "https://www.instagram.com/1altitudecoast.sg/",
+      "description": "For the ultimate romantic escape, 1-Altitude Coast at The Outpost Hotel, Sentosa, offers a mesmerizing rooftop wedding venue. Boasting Sentosa’s highest rooftop bar and infinity pool with unparalleled views of Palawan Beach and Singapore Straits, it merges island tranquility with urban chic. The day-to-night beachfront playground seamlessly combines casual dining at Sol & Ora with evening celebrations under the stars, making it the perfect backdrop for an unforgettable wedding.",
+      "extra_filters": "RESTAURANT CAPACITY:\nSeating – 170 guests | Standing – 250 guests\n\nTERRACE CAPACITY\nDeck only – 60 guests | Entire space – 120 guests",
+      "packages": [
+        "https://singaporebrides.com/d/system/documents/contents/000/001/184/original/1-Altitude_Coast_Weddings_Online_Kit_Aug2022.pdf?1663569743"
+      ],
+      "photos": [
+        {
+          "src": "https://singaporebrides.com/d/system/photos/images/000/054/643/original/1-HOST-1010092.jpg?1714969287",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "src": "https://singaporebrides.com/d/system/photos/images/000/054/640/original/1Altitude000066.jpg?1714969286",
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://singaporebrides.com/d/system/photos/images/000/054/646/original/17102022_1AltitudeCoast_Colossal_Clean_017.jpg?1714969289",
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "https://singaporebrides.com/d/system/photos/images/000/054/657/original/ViuE_Set-0493.jpg?1714969293",
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "min_capacity": 250,
+      "max_capacity": 350,
+      "environment": ["outdoor", "indoor"],
+      "venue_type": ["restaurants, breweries", "beaches, waterfront settings"],
+      "included": ["limited service"],
+      "amenities": ["bar services"],
+      "vendor_type": "venues"
+    },
+    {
+      "id": "66923fe899833123935b34b1",
+      "min_price": 1000,
+      "max_price": 5000,
+      "name": "22-Coast",
+      "rating": null,
+      "rating_count": null,
+      "address": "Level 2 Hotel, 10 Artillery Avenue, Sentosa Island, Singapore 012351",
+      "phone_number": "65 6522 7708",
+      "email": "enquiry@1-altitudecoast.sg",
+      "website": "www.1-altitudecoast.sg",
+      "facebook": "https://www.facebook.com/1altitude",
+      "google_id": null,
+      "google_maps_uri": null,
+      "instagram": "https://www.instagram.com/1altitudecoast.sg/",
+      "description": "For the ultimate romantic escape, 1-Altitude Coast at The Outpost Hotel, Sentosa, offers a mesmerizing rooftop wedding venue. Boasting Sentosa’s highest rooftop bar and infinity pool with unparalleled views of Palawan Beach and Singapore Straits, it merges island tranquility with urban chic. The day-to-night beachfront playground seamlessly combines casual dining at Sol & Ora with evening celebrations under the stars, making it the perfect backdrop for an unforgettable wedding.",
+      "extra_filters": "RESTAURANT CAPACITY:\nSeating – 170 guests | Standing – 250 guests\n\nTERRACE CAPACITY\nDeck only – 60 guests | Entire space – 120 guests",
+      "packages": [
+        "https://singaporebrides.com/d/system/documents/contents/000/001/184/original/1-Altitude_Coast_Weddings_Online_Kit_Aug2022.pdf?1663569743"
+      ],
+      "photos": [
+        {
+          "src": "",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "src": "",
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "",
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "src": "",
+          "width": 1500,
+          "height": 1000
+        }
+      ],
+      "min_capacity": 250,
+      "max_capacity": 350,
+      "environment": ["outdoor", "indoor"],
+      "venue_type": ["restaurants, breweries", "beaches, waterfront settings"],
+      "included": ["limited service"],
+      "amenities": ["bar services"],
+      "vendor_type": "venues"
+    },
+    {
+      "id": "669cb31055174fd032cfbfbd",
+      "min_price": null,
+      "max_price": 1280,
+      "name": "Acapella Photography",
+      "rating": 5,
+      "rating_count": 50,
+      "address": "229 Joo Chiat Road, Singapore 427489",
+      "phone_number": "65 8128 1225",
+      "email": "hello@acapellaphotography.com",
+      "website": "acapellaphotography.com",
+      "facebook": "https://www.facebook.com/acapellaphotography",
+      "google_id": "ChIJhc8bvHUY2jERnKJ3b2eo-DQ",
+      "google_maps_uri": "https://maps.google.com/?cid=3816985846401704604",
+      "instagram": "https://www.instagram.com/acapellaphotography/",
+      "description": "Acapella Photography, Singapore's best wedding photographer, excels in capturing stunning pre-wedding and wedding moments both locally and globally, from Iceland's icy landscapes to Italy's romantic vistas. With over 20 years of experience, Joe Teng blends artistic skill with a natural and sensitive approach, ensuring each photo radiates authenticity. Recognized as a top wedding photographer, Acapella ensures unforgettable memories, whether in Singapore or abroad.",
+      "extra_filters": "",
+      "packages": [
+        "https://jouvirevendors.s3.amazonaws.com/packages/Acapella%20Rate%20Card%202024-25.pdf"
+      ],
+      "photos": [
+        {
+          "src": "https://lh3.googleusercontent.com/p/AF1QipMNQqScuG0yraOm41eLD53CNeUfZS8un6yOJJ4M=s680-w680-h510",
+          "width": 680,
+          "height": 453
+        },
+        {
+          "src": "https://lh3.googleusercontent.com/p/AF1QipMvNpu41Py_GQ0eUfZ1ACJDfLKI7g17menx-GJH=s680-w680-h510",
+          "width": 363,
+          "height": 510
+        },
+        {
+          "src": "https://acapellaphotography.com/wp-content/gallery/iceland/iceland06.jpg",
+          "width": 2560,
+          "height": 1704
+        },
+        {
+          "src": "https://acapellaphotography.com/wp-content/gallery/iceland/iceland08.jpg",
+          "width": 2560,
+          "height": 1707
+        },
+        {
+          "src": "https://acapellaphotography.com/wp-content/gallery/iceland/iceland10.jpg",
+          "width": 2560,
+          "height": 1704
+        },
+        {
+          "src": "https://acapellaphotography.com/wp-content/gallery/hanna-and-stephen/hanna_stephen13.jpg",
+          "width": 2560,
+          "height": 1709
+        }
+      ],
+      "services": [
+        "destination photography",
+        "pre-wedding photoshoot",
+        "family & maternity",
+        "actual day photoshoot"
+      ],
+      "style": ["contemporary", "natural", "fine art", "photojournalistic"],
+      "destinations": [
+        "iceland",
+        "germany",
+        "russia",
+        "italy",
+        "spain",
+        "france",
+        "norway",
+        "japan",
+        "north america",
+        "hungary",
+        "south korea",
+        "new zealand",
+        "singapore"
+      ],
+      "vendor_type": "photographers"
+    },
+    {
+      "id": "669cb31155174fd032cfbfbe",
+      "min_price": null,
+      "max_price": null,
+      "name": "Antelope Studios",
+      "rating": 4.9,
+      "rating_count": 109,
+      "address": "48 Niven Rd, Singapore 228396",
+      "phone_number": "65 96361050",
+      "email": "happy@antelopestudios.com",
+      "website": "https://www.antelopestudios.com/",
+      "facebook": "https://www.facebook.com/antelopestudios",
+      "google_id": "ChIJSXzRR1MZ2jER8c8Ojj8vpMw",
+      "google_maps_uri": "https://maps.google.com/?cid=14745963029930627057",
+      "instagram": "https://www.instagram.com/antelopestudios/",
+      "description": "Antelope Studios captures the heart of every wedding, blending emotional storytelling with impeccable technique. Renowned for their work at high-end venues like Raffles Hotel and St Regis, they transform moments into timeless memories. From intimate home ceremonies to grand celebrations, their keen eye for detail and love for adventure shine through. The studio’s passion has garnered accolades, making them a top choice for couples seeking breathtaking wedding photography.",
+      "extra_filters": "",
+      "packages": [],
+      "photos": [
+        {
+          "src": "https://singaporebrides.com/instagram-rss/system/38543.thumb.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://singaporebrides.com/instagram-rss/system/38470.thumb.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "src": "https://singaporebrides.com/instagram-rss/system/35968.thumb.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://singaporebrides.com/instagram-rss/system/35937.thumb.jpg",
+          "width": 1080,
+          "height": 720
+        },
+        {
+          "src": "https://singaporebrides.com/instagram-rss/system/34819.thumb.jpg",
+          "width": 1080,
+          "height": 955
+        },
+        {
+          "src": "https://singaporebrides.com/instagram-rss/system/34490.thumb.jpg",
+          "width": 1080,
+          "height": 720
+        },
+        {
+          "src": "https://singaporebrides.com/instagram-rss/system/34344.thumb.jpg",
+          "width": 1080,
+          "height": 720
+        }
+      ],
+      "services": [
+        "destination photography",
+        "pre-wedding photoshoot",
+        "family & maternity",
+        "actual day photoshoot"
+      ],
+      "style": [
+        "contemporary",
+        "natural",
+        "fine art",
+        "photojournalistic",
+        "traditional"
+      ],
+      "destinations": [
+        "new zealand",
+        "kyoto",
+        "hokkaido",
+        "melbourne",
+        "bali",
+        "hong kong",
+        "london"
+      ],
+      "vendor_type": "photographers"
+    },
+    {
+      "id": "669cb31955174fd032cfbfef",
+      "min_price": 2500,
+      "max_price": 2888,
+      "name": "Aferriswheel-Studios",
+      "rating": null,
+      "rating_count": null,
+      "address": "61 Ubi Road 1 #02-06 Oxley Bizhub Singapore, Singapore 408727",
+      "phone_number": "65 97318505\n65 83851064",
+      "email": "enquiry@aferriswheel.com",
+      "website": "https://aferriswheel.com/",
+      "facebook": "https://www.facebook.com/AferriswheelStudios/",
+      "google_id": null,
+      "google_maps_uri": null,
+      "instagram": "https://www.instagram.com/aferriswheel_studios/",
+      "description": "Aferriswheel-Studios specializes in capturing the authentic emotions and timeless moments of weddings through cinematic videography. Since 2012, their passionate team has mastered the art of preserving life’s most joyful memories with minimal directing, ensuring couples can fully immerse in their special day. Their work has been featured in \"The Wedding Vow\" and \"Best in Singapore,\" showcasing their commitment to creating heartfelt and beautifully edited wedding videos.",
+      "youtube": "",
+      "extra_filters": "Additional charges apply for: \n– Extra hour $250/hour\n– Split day wedding at $350",
+      "packages": [
+        "https://jouvirevendors.s3.amazonaws.com/packages/rate%20card%202024.pdf"
+      ],
+      "photos": [
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/10258808_799609570143882_5675921777225656125_o.jpg",
+          "width": 1365,
+          "height": 2048
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/78982079_2262781147160043_8410955689798664192_n.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/1909354_799609460143893_3750483932009943634_o.jpg",
+          "width": 2048,
+          "height": 1365
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/57504555_1881421271962701_7132374879608766464_n.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/65529750_1987943197977174_5980015865393840128_n.jpg",
+          "width": 1080,
+          "height": 754
+        }
+      ],
+      "style": ["cinematic"],
+      "services": [
+        "pre-wedding videography",
+        "actual wedding videography",
+        "next day edit"
+      ],
+      "vendor_type": "videographers"
+    },
+
+    {
+      "id": "669cb31955174fd032cfbff0",
+      "min_price": null,
+      "max_price": null,
+      "name": "Bokbokeh",
+      "rating": null,
+      "rating_count": null,
+      "address": "",
+      "phone_number": "",
+      "email": null,
+      "website": "https://www.bokbokeh.com/",
+      "facebook": "https://www.facebook.com/bokbokeh/",
+      "google_id": null,
+      "google_maps_uri": null,
+      "instagram": "https://www.instagram.com/bokbokeh",
+      "description": "Bokbokeh is a premier wedding videography team renowned for their ability to capture the essence of love and celebration. Known for their cinematic storytelling and exceptional attention to detail, Bokbokeh crafts beautifully memorable videos that couples cherish forever. Their charming blend of artistry and professionalism ensures every moment is preserved with elegance and emotion, making them a beloved choice for weddings.",
+      "youtube": "",
+      "extra_filters": "",
+      "packages": ["https://www.bokbokeh.com/rates/"],
+      "photos": [
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/425947264_18390135022065600_7798513163747852893_n.jpg",
+          "width": 1440,
+          "height": 1795
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/431688499_18398864239065600_1094268052255538573_n.jpg",
+          "width": 1440,
+          "height": 1795
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/435488708_18403320172065600_1698018457756344852_n.jpg",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/437751973_18404561509065600_3441363995880644500_n.jpg",
+          "width": 1440,
+          "height": 1795
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/446799709_18412091812065600_4783399553163926496_n.jpg",
+          "width": 1440,
+          "height": 1795
+        }
+      ],
+      "style": ["traditional", "vintage", "documentary"],
+      "services": [
+        "pre-wedding videography",
+        "actual wedding videography",
+        "next day edit"
+      ],
+      "vendor_type": "videographers"
+    },
+
+    {
+      "id": "669cb31d55174fd032cfc003",
+      "min_price": 600,
+      "max_price": 2200,
+      "name": "White Ribbon Singapore",
+      "rating": 4.9,
+      "rating_count": 17,
+      "address": "362 Joo Chiat Rd, #02-01, Singapore 427607",
+      "phone_number": "65 9232 8013 \n65 9150 4584",
+      "email": "services@whiteribbon.sg",
+      "website": "whiteribbon.sg",
+      "facebook": "https://www.facebook.com/WhiteRibbonLiveMusic/",
+      "google_id": "ChIJ3ZurskUX2jERmoF-p6scwjU",
+      "google_maps_uri": "https://maps.google.com/?cid=3873690153067119002",
+      "instagram": "https://www.instagram.com/whiteribbonlivemusic/",
+      "description": "White Ribbon Singapore delivers an extraordinary live music experience tailored specifically for weddings. With a rich roster of talented singers and musicians, they masterfully blend classic ballads and contemporary hits to craft an enchanting atmosphere. Recognised for their professionalism and personable touch, White Ribbon ensures a seamless and memorable event. Their accolades include glowing reviews for elevating wedding celebrations and heartfelt thanks from countless satisfied couples. Choose White Ribbon to create unforgettable wedding memories.",
+      "youtube": "",
+      "extra_filters": "",
+      "packages": [
+        "https://jouvirevendors.s3.amazonaws.com/packages/White%20Ribbon%20Rate%20Card%20%28Updated%20May%202024%29-compressed.pdf"
+      ],
+      "photos": [
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/22256555_1509725439145554_8475732601693500460_o.jpg",
+          "width": 1080,
+          "height": 917
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/21586981_1494485910669507_7244025991226860773_o.jpg",
+          "width": 1080,
+          "height": 720
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/26173471_1590454551072642_2469459281463222615_o.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/58745090_2221941521257272_8669368367167045632_n.jpg",
+          "width": 899,
+          "height": 899
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/397394100_18297801328135795_8044962010375561646_n.jpg",
+          "width": 1390,
+          "height": 1390
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/276278914_629465998439742_1237044542237285980_n.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      ],
+      "music_type": ["live band or ensemble", "live solo performer"],
+      "genre": [
+        "english pop",
+        "mandarin pop",
+        "jazz",
+        "bossa nova",
+        "acoustic",
+        "rock"
+      ],
+      "instruments": [
+        "violin",
+        "viola",
+        "cello",
+        "vocals",
+        "keyboard",
+        "drums",
+        "guitar",
+        "bass",
+        "saxophone",
+        "piano",
+        "harp"
+      ],
+      "languages": [
+        "english",
+        "mandarin",
+        "cantonese",
+        "hokkien",
+        "malay",
+        "tamil",
+        "others"
+      ],
+      "vendor_type": "music"
+    },
+    {
+      "id": "669cb31d55174fd032cfc004",
+      "min_price": null,
+      "max_price": null,
+      "name": "A Little Dream Live Music",
+      "rating": 5,
+      "rating_count": 96,
+      "address": "14 Robinson Road Far East Finance Building\n#08-01A Singapore 048545",
+      "phone_number": "65 85258277",
+      "email": "info@alittledream.com.sg",
+      "website": "https://www.alittledream.com.sg/",
+      "facebook": "https://www.facebook.com/alittledreamlivemusic",
+      "google_id": "ChIJsUAAgQ4Z2jERdtlPkVo1RUQ",
+      "google_maps_uri": "https://maps.google.com/?cid=4919396831073393014",
+      "instagram": "https://www.instagram.com/alittledreamlivemusic/",
+      "description": "A Little Dream Live Music is a premier live music provider in Singapore, renowned since 2002. With a versatile lineup of female and male singers, power duos, DJs, and instrumentalists, they’ve graced over thousands of weddings and corporate events. Their unmatched expertise ensures every wedding feels magical, offering everything from soulful serenades to lively dance numbers. A Little Dream Live Music is the trusted choice for a truly unforgettable wedding celebration.",
+      "youtube": "",
+      "extra_filters": "(By Appointment Only)",
+      "packages": [],
+      "photos": [
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/327144815_952070379510823_7529908759521358746_n.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/341527050_1646221705830481_7431982727709753730_n.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/364025688_774267824704945_580064034496635361_n.jpg",
+          "width": 1600,
+          "height": 871
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/383002753_811150194350041_7769333822174059292_n.jpg",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "https://jouvirevendors.s3.amazonaws.com/images/399933432_839848571480203_7972909303132437023_n.jpg",
+          "width": 1081,
+          "height": 1080
+        }
+      ],
+      "music_type": ["live band or ensemble", "live solo performer"],
+      "genre": [
+        "top 40s",
+        "jazz",
+        "classical",
+        "rock",
+        "english pop",
+        "mandarin pop"
+      ],
+      "instruments": [
+        "vocals",
+        "piano",
+        "guitar",
+        "violin",
+        "cello",
+        "saxophone",
+        "harp",
+        "drums",
+        "bass"
+      ],
+      "languages": ["english", "mandarin", "cantonese", "hokkien", "malay"],
+      "vendor_type": "music"
+    }
+  ],
+  "users": [
+    {
+      "email": "test101@gmail.com",
+      "name": "",
+      "firebaseId": "Aq1OiYp6EMX0ljby2E0iSO8Hj512",
+      "my_vendors_id": [
+        "66a73d6931892b6bdcf73483",
+        "66a73d6931892b6bdcf73481",
+        "66a73d6931892b6bdcf73482",
+        "66a73d6931892b6bdcf73485",
+        "66a73d6931892b6bdcf73484",
+        "66a73d6931892b6bdcf73480",
+        "66a73d6931892b6bdcf73486",
+        "66a73d6931892b6bdcf73487"
+      ]
+    }
+  ]
+}

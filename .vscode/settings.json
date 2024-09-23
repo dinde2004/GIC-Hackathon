@@ -1,0 +1,27 @@
+{
+  "eslint.workingDirectories": ["packages/*"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "prettier.useEditorConfig": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "pylint.args": [
+    "\"pylint.args\": [\"--rcfile=${workspaceFolder}/packages/backend/.pylintrc\"]"
+  ],
+  "python.analysis.typeCheckingMode": "standard",
+  "python.analysis.importFormat": "relative",
+  "python.analysis.fixAll": [],
+  "python.analysis.autoFormatStrings": false,
+  "python.analysis.extraPaths": [
+    "./packages/backend/venv/lib/python3.11/site-packages"
+  ]
+}

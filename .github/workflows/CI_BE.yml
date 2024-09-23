@@ -1,0 +1,55 @@
+name: Build Lint and Test (Backend)
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  CICD_BE:
+    runs-on: ubuntu-latest
+
+    # services:
+    #   mongo:
+    #     image: mongo:4.4
+    #     env:
+    #       MONGO_INITDB_DATABASE: testdb
+    #     ports:
+    #       - 27017:27017
+    #     options: >-
+    #       --health-cmd "mongo --eval 'db.runCommand({ ping: 1 })'"
+    #       --health-interval 10s
+    #       --health-timeout 5s
+    #       --health-retries 5
+
+    env:
+      DATABASE_URL: #TODO ADD
+      FAST_API_ENV: test
+      PORT: 8080
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          cd packages/backend
+          python -m pip install --upgrade pip
+          pip install flake8 pytest
+          sudo npm install -g pyright
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Lint with flake8
+        run: |
+          cd packages/backend
+          # stop the build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+      - name: Code check with pyright
+        run: |
+          pyright --project .
+      - name: Test with pytest
+        run: |
+          cd packages/backend
+          pytest
